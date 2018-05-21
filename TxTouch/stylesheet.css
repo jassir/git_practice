@@ -1,0 +1,19 @@
+#navbar {
+  background-color: blue;
+  color: white;
+}
+
+#extra_emphasis{
+  font-weight: bold;
+  color: blue;
+}
+
+img{
+  width: 500px;
+  height:300px;
+  padding-left: 35px;
+}
+
+video {
+  padding-left:35px;
+}
