@@ -1,0 +1,17 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+
+.header {
+  font-family: Verdana;
+  font-weight: lighter;
+  font-size: 30px;
+  color: white;
+  align: center;
+}
+
+.downloadlink {
+  color: aquamarine;
+  font-size: 16px;
+}
